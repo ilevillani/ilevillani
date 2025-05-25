@@ -18,6 +18,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
+## 🛡️ Incident Response
+
+- **[Incident Response Scenario (Virtual Machine Brute Force Detection)]()**
+
 <hr/>
 
 ## 🤳 Connect With Me
