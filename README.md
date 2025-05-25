@@ -26,6 +26,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Incident Response Scenario (Virtual Machine Brute Force Detection)]()**
 
+### 🐍 Python for Cybersecurity
+
+- **[UDP flood script](https://github.com/ilevillani/pratiche_python/blob/main/W7D1/udp_flood2.py)**
+
 <hr/>
 
 ## 🧠 AI&ML
