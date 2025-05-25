@@ -11,6 +11,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Internet Exposed Devices)](https://github.com/ilevillani/threat-hunting-internet-exposed-devices)**
+  
+- **[Threat Hunting Scenario (Sudden Network Slowdowns)](https://github.com/ilevillani/threat-hunting-scenario-sudden-network-slowdowns)**
 
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
