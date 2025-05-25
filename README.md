@@ -34,7 +34,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🧠 AI&ML
 
-- **[Bike Sharing Demand Prediction with Autogluon (AWS - SageMaker Studio AI)](https://github.com/ilevillani/AWS-AI-ML-/blob/main/Projects/bike-sharing-demand.ipynb)**
+- **[Bike Sharing Demand Prediction with Autogluon (AWS - SageMaker Studio AI)](https://github.com/ilevillani/AWS-AI-ML-/blob/main/autogluon-bike-sharing.ipynb)**
 
 ## 🤳 Connect With Me
 
