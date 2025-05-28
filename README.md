@@ -25,6 +25,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ### 🛡️ Incident Response
 
 - **[Incident Response Scenario (Virtual Machine Brute Force Detection)](https://github.com/ilevillani/incident-response-)**
+  
 - **[Incident Response Scenario (Powershell Suspicious Web Request)](https://github.com/ilevillani/threat-hunt-powershell-request)**
 
 ### 🐍 Python for Cybersecurity
