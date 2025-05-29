@@ -28,6 +28,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
   
 - **[Incident Response Scenario (Powershell Suspicious Web Request)](https://github.com/ilevillani/threat-hunt-powershell-request)**
 
+- **[Incident Response Scenario (Potential Impossible Travel)](https://github.com/ilevillani/incident-response-impossible-travels)**
+
 ### 🐍 Python for Cybersecurity
 
 - **[UDP flood script](https://github.com/ilevillani/pratiche_python/blob/main/W7D1/udp_flood2.py)**
