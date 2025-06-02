@@ -20,7 +20,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
   
 - **[Threat Hunting Scenario (Insider Threat: Data Exfiltration)](https://github.com/ilevillani/threat-hunting-scenario-data-exfiltration)**
 
-- **[Threat Hunting Scenario (Tor Browser Usage)]()**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ilevillani/threat-hunting-scenario-tor)**
 
 ### 🛡️ Incident Response
 
